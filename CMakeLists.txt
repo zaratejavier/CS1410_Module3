@@ -9,6 +9,8 @@ set(CMAKE_CXX_STANDARD 11)
 #set(SOURCE_FILES functionsreturn.cpp)
 #set(SOURCE_FILES functionsStruct.cpp)
 set(SOURCE_FILES Point.cpp)
+set(SOURCE_FILES JavierZarateHw2_task1.cpp)
+
 
 
 add_executable(lec6 ${SOURCE_FILES})
