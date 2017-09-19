@@ -21,7 +21,7 @@ struct Point
 void ShowPoint(const struct Point &p);
 void UpdatePoint(struct Point &p);
 struct Point CreatePoint();
-struct Point CreatePointValue(float x = 0.0, float y= 0.0);
+struct Point CreatePointValue(float x = 1.0, float y= 1.0);
 //Inline Functions
 inline float InchesToCm(float val)
 {
