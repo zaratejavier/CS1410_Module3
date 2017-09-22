@@ -47,8 +47,6 @@ int main(int argc, char* argv[])
             break;
         case 4:
             cout<<"Invalid camparison calue there must be a bug "<<endl;
-
-
     }
 
     return 0;
@@ -66,7 +64,6 @@ struct house InputHouse(void)
 
     cout<<"Please enter the price: "<<endl;
     cin>>h.price;
-
 
     return h;
 }
