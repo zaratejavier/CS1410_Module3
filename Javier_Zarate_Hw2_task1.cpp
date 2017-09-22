@@ -1,4 +1,4 @@
-// File: JavierZarateHw2_task1
+// File: Javier_Zarate_Hw2_task1
 // Created by Javier Zarate on 9/19/17 for CS1410.
 // Copyright (c) 2017 WSU
 //
@@ -70,7 +70,7 @@ struct house InputHouse(void)
 
 void PrintHouse(int houseNum, struct house h)
 {
-    cout << houseNum <<" house: at "<<h.streetNum<<" "<<h.streetName<<" for "<<h.price<<endl;
+    cout << houseNum <<" house: at "<<h.streetNum<<" "<<h.streetName<<" for $["<<h.price<<"]"<<endl;
 }
 
 int ComparePrices(struct house h1, struct house h2)
