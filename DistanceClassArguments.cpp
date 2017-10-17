@@ -5,18 +5,17 @@
 //
 #include <iostream>
 using namespace std;
-//task: define a calss distance
+//task: define a class distance
 //that stores int feet and float inches
 //two method: setDist-> set distance
-//             getDist -> set the informatino with customer input
-//             showDist -> display vlues
+//             getDist -> set the information with customer input
+//             showDist -> display values
 // Constants, struct, classes
 class Distance
 {
 private:
     int feet;
     float inches;
-
     //every object shares this variable
     static int count;  // one variable per CLASS
 public:
@@ -136,4 +135,5 @@ void ShowCurrentCount(Distance d1)
 {
     cout<< "The current count in my super class is "<< d1.getCount()<< endl;
 }
+
 

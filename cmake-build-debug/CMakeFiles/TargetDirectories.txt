@@ -1,0 +1,3 @@
+/Users/Xavi/CLionProjects/lec6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/Xavi/CLionProjects/lec6/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Xavi/CLionProjects/lec6/cmake-build-debug/CMakeFiles/lec6.dir
